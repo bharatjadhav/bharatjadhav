@@ -1,6 +1,6 @@
 # Bharat Jadhav  
 
-📧 bharat@springdev.in  | 🌍 Pune, India | 🔗 [LinkedIn](https://www.linkedin.com/in/bharat-jadhav/) | [GitHub](https://github.com/bharatjadhav)  
+📧 bharat@springdev.in  | 🌍 Pune, India | 🔗 [LinkedIn](https://www.linkedin.com/in/bharat-jadhav/) | [GitHub](https://github.com/bharatjadhav) |[x](https://x.com/bharat_jadhav_1)
 
 ---
 ## 🚀 Summary  
