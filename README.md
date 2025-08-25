@@ -1,18 +1,15 @@
-  ## Hi there 👋
+# Bharat Jadhav  
 
+📧 bharat@springdev.in | 📱 +91-9527846951 | 🌍 Pune, India | 🔗 [LinkedIn](https://www.linkedin.com/in/bharat-jadhav/) | [GitHub](https://github.com/bharatjadhav)  
 
+---
+## 🚀 Summary  
+Backend Developer with **3.5 years of experience** specializing in **Java & Spring Boot**. Skilled at building applications from scratch, enhancing legacy code, improving system performance, and reducing infrastructure costs. Strong in analyzing business logic and delivering efficient, scalable solutions across multiple domains including EdTech, Astrology, and Dashboards.  
 
-<!--
-**bharatjadhav/bharatjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠 Core Skills  
+- **Languages & Frameworks**: Java, Spring Boot, Hibernate, JPA, Node.js, Python 3, JavaScript (ES6) 
+- **Databases**: MySQL, PostgreSQL, MS SQL, Oracle DB, Redis  
+- **DevOps & Tools**: Docker, Kubernetes, Git, Tomcat, Apache2, Nginx, Linux  
+- **Cloud & Security**: Azure AD, OAuth, Firebase Cloud Messaging  
+- **Other Expertise**: IText PDF processing, CSV & Excel parsing, Razorpay Webhook integration  
