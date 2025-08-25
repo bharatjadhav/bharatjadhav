@@ -1,6 +1,6 @@
 # Bharat Jadhav  
 
-📧 bharat@springdev.in | 📱 +91-9527846951 | 🌍 Pune, India | 🔗 [LinkedIn](https://www.linkedin.com/in/bharat-jadhav/) | [GitHub](https://github.com/bharatjadhav)  
+📧 bharat@springdev.in  | 🌍 Pune, India | 🔗 [LinkedIn](https://www.linkedin.com/in/bharat-jadhav/) | [GitHub](https://github.com/bharatjadhav)  
 
 ---
 ## 🚀 Summary  
